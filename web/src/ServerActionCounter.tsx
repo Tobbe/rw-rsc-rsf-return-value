@@ -15,7 +15,7 @@ export const ServerActionCounter = ({ increment }: Props) => {
     <div style={{ border: '3px blue dashed', margin: '1em', padding: '1em' }}>
       <h3>This is a client component.</h3>
       <p>Client count: {clientCount}</p>
-      <p>Server count: {loading ? 'Loading...' : serverCount}</p>
+      <p>Server count: {loading ? 'Loading... (fake delay)' : serverCount}</p>
       <button onClick={() => setClientCount((c) => c + 1)}>
         Increment client counter
       </button>

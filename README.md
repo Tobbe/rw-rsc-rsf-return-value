@@ -1,4 +1,4 @@
-# Redwood RSC Demo 3
+# Redwood RSC Demo 4
 
 Repo demonstrating the RedwoodJS React Server Components implementation
 
