@@ -6,6 +6,12 @@ This app shows calling a server function and receiving a return value
 
 ## How to run
 
+### GitPod
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
+
+### Locally
+
 `yarn install`
 
 `yarn rw build -v && yarn rw serve`
