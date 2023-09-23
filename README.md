@@ -27,3 +27,12 @@ Look at Demo 2 first. This one builds on that one
    client side state (the client counter) is forgotten/reset but the server
    state is still the same as before refreshing. You could also do this in
    Demo 2, but I chose not to highlight it there.
+
+## List of Redwood RSC demos
+
+ 1. https://github.com/Tobbe/rw-rsc-client-counter
+ 2. https://github.com/Tobbe/rw-rsc-suspense
+ 3. https://github.com/Tobbe/rw-rsc-server-mutation
+ 4. https://github.com/Tobbe/rw-rsc-rsf-return-value
+ 5. https://github.com/Tobbe/rw-rsc-form-server-action
+ 6. https://github.com/Tobbe/rw-rsc-ai-jsx
